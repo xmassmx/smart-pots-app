@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "993598436564",
+    "firebase_url": "https://smart-pots-4d50a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smart-pots-4d50a",
+    "storage_bucket": "smart-pots-4d50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993598436564:android:21942e7427c46fcebf7741",
+        "android_client_info": {
+          "package_name": "com.example.fyp_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993598436564-o9euo35h6k3o02c91iaaor920ahjq9vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnNmrMuuirm-8DDgUdit8Cb8dvFFsDVDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993598436564-o9euo35h6k3o02c91iaaor920ahjq9vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993598436564-ul1jphri17jfr10r2ppogmm2d52s16q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.smartpot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993598436564:android:0585ffe03f2cad3dbf7741",
+        "android_client_info": {
+          "package_name": "com.flutterflow.smartpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993598436564-ap4d9fl2in6d77vm8qoab4fhlbjab2pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.smartpot",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "993598436564-o9euo35h6k3o02c91iaaor920ahjq9vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnNmrMuuirm-8DDgUdit8Cb8dvFFsDVDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993598436564-o9euo35h6k3o02c91iaaor920ahjq9vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993598436564-ul1jphri17jfr10r2ppogmm2d52s16q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.smartpot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
