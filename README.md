@@ -1,1 +1,1 @@
-# Flutter Application for The Smart Pot System
+# Android Application for The Smart Pot System
